@@ -122,3 +122,14 @@ Inspired by modern metaheuristic strategies:
 This project bridges the gap between **raw user activity data** and **actionable business insights** by combining optimization-driven clustering with behavioral analysis. It enables organizations to move from reactive decision-making to **proactive engagement strategy design**.
 
 ---
+## Author
+
+**Tanvi Gupta**  
+- Data Mining & User Behavior Analysis  
+- Focus: User Engagement, Feature Abandonment, Optimization Techniques  
+
+---
+
+## License
+
+This project is intended for academic and research purposes.
